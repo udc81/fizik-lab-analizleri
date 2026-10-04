@@ -9,3 +9,4 @@ Bu depoda, Mekanik Laboratuvarı kapsamında gerçekleştirdiğimiz deneylerin h
 
 ### Gözlem ve Hata Analizi:
 Ölçüm serisinde 3. veri noktası (2.30 cm), ±σ standart sapma sınırının belirgin biçimde dışına çıkmıştır. Bu durum verniyer skalasının okunmasındaki olası sistematik bir operatör hatasına işaret etmektedir. Veri şeffaflığı adına bu değer silinmemiş, aykırı değer (outlier) olarak grafikte belgelenmiştir.
+- **Mikrometre Ölçümleri:** 20 adet kalınlık ölçümünün `np.unique` ve sütun grafiği (`plt.bar`) ile frekans dağılımı analizi.
