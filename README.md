@@ -3,7 +3,7 @@
 
 Bu depoda, Mekanik Laboratuvarı kapsamında gerçekleştirdiğimiz deneylerin ham verileri, hata analizleri ve Python (Matplotlib/NumPy) görselleştirmeleri yer almaktadır.
 
-## Deney 01: Uzunluk Ölçümleri (Kumpas ve İstatistiksel Analiz)
+## Deney 01: Uzunluk Ölçümleri (Kumpas,Mikrometre ve İstatistiksel Analiz)
 - **Ekip:** Masa Grubu Ortak Ölçümü (Grup 4)
 - **Analiz:** Utku Deniz Cansaran
 
